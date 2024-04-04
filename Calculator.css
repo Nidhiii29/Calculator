@@ -1,4 +1,4 @@
-.calculator {
+calculator {
     
     margin: 150px auto;
     width: 300px;
@@ -36,12 +36,12 @@
     box-shadow: 2px 2px 2px grey;
   }
   
-  .buttons button:hover {
+  buttons button:hover {
     background-color: grey;
     color: red;
     cursor: pointer;
   }
   body{
-    background-image: url(data:image/png;base64,EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MgwIAhAAGEMYgAQYigUyBggDEEUYOzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTEyN2owajeoAgCwAgA
+    background-image: url(data:image/png;base64,EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MgwIAhAAGEMYgAQYigUyBggDEEUYOzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTEyN2owajeoAgCwAgA);
     background-repeat: no-repeat;
   }
